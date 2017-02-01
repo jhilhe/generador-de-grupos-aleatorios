@@ -4,3 +4,5 @@ Aplicación web para generar un número determinado de grupos a partir de una li
 Introduce las personas/miembros a agrupar uno por línea, elige el número de grupos y el algoritmo los generará aleatoriamente :) Fácil.
 
 Accede a la aplicación aquí: http://generadorgrupos.miguelms.es/
+
+Próximamente añadiré la funcionalidad de drag & drop a las listas generadas, para reubicar elementos de los grupos si necesario
