@@ -5,4 +5,4 @@ Introduce las personas/miembros a agrupar uno por línea, elige el número de gr
 
 * Accede a la aplicación aquí: http://generadorgrupos.miguelms.es/
 
-Próximamente añadiré la funcionalidad de drag & drop a las listas generadas, para reubicar elementos de los grupos si necesario
+Próximamente añadiré la funcionalidad de drag & drop a las listas generadas, para reubicar elementos de los grupos si necesario.
